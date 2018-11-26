@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'CharterBT-Roman';
+  src: url('charter-bt.eot');
+  src: url('charter-bt.eot?#iefix') format('embedded-opentype'),
+    url('charter-bt.woff') format('woff'),
+    url('charter-bt.ttf') format('truetype'),
+    url('charter-bt.svg#charter-bt') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
